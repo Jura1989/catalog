@@ -1,4 +1,6 @@
 annotations:
+  supported: "true"
+  max_scale_version: 24.10.1
   min_scale_version: 24.04.0
   truecharts.org/SCALE-support: "true"
   truecharts.org/category: Crypto
